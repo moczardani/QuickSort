@@ -1,0 +1,9 @@
+C:\Users\moczar\source\repos\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\moczar\source\repos\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\moczar\source\repos\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\moczar\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.Form1.resources
+C:\Users\moczar\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.Properties.Resources.resources
+C:\Users\moczar\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.GenerateResource.cache
+C:\Users\moczar\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\moczar\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\moczar\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
